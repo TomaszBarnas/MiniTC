@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/F4SBnmcxKp0u7ROMeMH4i723iPg5l/xXGLE4aqB8mmnk6PJzX8Gy2IxNTGFfZQXDVWN2jUYpe+QF1dT6GE/0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomek\\Desktop\\MiniTC\\MiniTC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomek\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
